@@ -1,14 +1,22 @@
 {
-  "name": "json",
+  "name": "api",
   "version": "1.0.0",
-  "description": "mock_4",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ujjwal_Singh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehfoozkhangithub/api.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehfoozkhangithub/api/issues"
+  },
+  "homepage": "https://github.com/mehfoozkhangithub/api#readme",
   "dependencies": {
     "json-server": "^0.17.1"
   }
